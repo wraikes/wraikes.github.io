@@ -2,7 +2,7 @@
 # Projects
 ### Below you'll find some random RMarkdown files, providing some analysis on various datasets.
 
-Here's an RMarkdown file exploring various aspects of [craft beers](https://github.com/wraikes/wraikes.github.io/blob/master/Beer_Analysis.html).
+Here's an RMarkdown file exploring various aspects of [craft beers](https://github.com/wraikes/wraikes.github.io/Beer_Analysis.html).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
