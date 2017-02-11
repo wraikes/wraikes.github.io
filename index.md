@@ -1,44 +1,13 @@
 
-# Projects
-### Below you'll find some random RMarkdown files, providing some analysis on various datasets.
-TEST
+# RMarkdown Files
+#### Below you'll find some random RMarkdown files, providing some analysis on various datasets.
 
-Here's an RMarkdown file exploring various aspects of [craft beers](Beer_Analysis.html).
+Here's a file that explores various aspects of [craft beers](Beer_Analysis.html).  The data is available for download at [Kaggle](https://www.kaggle.com/nickhould/craft-cans).  
+
+_Note: In the analysis, I make the **large** assumption that the data is a random sample. I'm highly doubtful that it is, but I'll treat it as such just for the sake of exploration and fun._
 
 
+### Contact
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to drop me a line on [linkedin](https://www.linkedin.com/in/william-raikes-81508448).
 
-Why didn't this updated?
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wraikes/wraikes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
