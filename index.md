@@ -1,7 +1,7 @@
 
-Welcome to my humble, digital abode!
+##### Welcome to my humble, digital abode!
 
-###### Below you'll find random projects and analyses that were created for practice and for fun.  Feel free to explore and use anything you'd like.
+##### Below you'll find random projects and analyses that were created for practice and for fun.  Feel free to explore and use anything you'd like.
 
 ### Craft Beers
 
