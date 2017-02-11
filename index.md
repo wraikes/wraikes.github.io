@@ -1,6 +1,7 @@
 
 # RMarkdown Files
-## Below you'll find some random RMarkdown files, providing some analysis on various datasets.
+## Below 
+you'll find some random RMarkdown files, providing some analysis on various datasets.
 
 Here's a file that explores various aspects of [craft beers](Beer_Analysis.html).  The data is available for download at [Kaggle](https://www.kaggle.com/nickhould/craft-cans).  
 
