@@ -3,7 +3,7 @@
 
 ##### Below you'll find random projects and analyses that were created for practice and for fun.  Feel free to explore and use anything you'd like.
 
-### Craft Beers
+### Craft Beers: An Exploratory Analysis
 
 Here's an exploratory analysis of different types of [craft beer](Beer_Analysis.html).  The data was made available to download at [Kaggle](https://www.kaggle.com/nickhould/craft-cans).
 
