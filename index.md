@@ -2,13 +2,13 @@
 Welcome to my humble, digital abode! Below you'll find random projects and analyses that were created for practice and for fun.  Feel free to explore and use anything you'd like.
 
 
-#### Craft Beers: A Drunken Exploration
+#### [Craft Beers: A Drunken Exploration](Beer_Analysis.html)
 
-Here's an exploratory analysis of different types of [craft beer](Beer_Analysis.html).  The data is available for download via [Kaggle](https://www.kaggle.com/nickhould/craft-cans).
+Here's an exploratory analysis of different types of craft beer.  The data is available for download via [Kaggle](https://www.kaggle.com/nickhould/craft-cans).
 
-#### A Brief Look into Gun-Related Deaths
+#### [A Brief Look into Gun-Related Deaths](gun_analysis.html)
 
-This analysis piece looks into the potential role different demographics have on [gun-related deaths](gun_analysis.html) from 2012 through 2014. The data is available for download via [Kaggle](https://www.kaggle.com/hakabuk/gun-deaths-in-the-us).
+This analysis piece looks into the potential role different demographics have on gun-related deaths from 2012 through 2014. The data is available for download via [Kaggle](https://www.kaggle.com/hakabuk/gun-deaths-in-the-us).
 
 
 ###### Disclaimer:
