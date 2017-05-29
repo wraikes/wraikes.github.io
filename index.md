@@ -1,15 +1,21 @@
 
-Welcome to my humble, digital abode! Below you'll find random projects and analyses that were created for practice and for fun.  Feel free to explore and use anything you'd like.
+Welcome to my humble, digital abode! Below you'll find random projects and analyses that were created for practice and for fun.  You'll find the projects designated under two categories: Python for machine-learning tasks, and R for exploratory analysis and hypothesis testing.
 
+## Machine Learning with Python
 
-#### Craft Beers: A Drunken Exploration
+#### I'm a (Titanic) Survivor
 
-Here's an exploratory analysis of different types of [craft beer](Beer_Analysis.html).  The data is available for download via [Kaggle](https://www.kaggle.com/nickhould/craft-cans).
+This [script](Titanic.html) was used for practice in running predictive classification models on the ubiquitous Titanic dataset, using Python's sci-kit learn package.  The data can be downloaded via [Kaggle](https://www.kaggle.com/c/titanic/data).  
 
-#### A Brief Look into Gun-Related Deaths
+## Exploratory Analyses with R
 
-This analysis piece looks into the potential role different demographics have on [gun-related deaths](gun_analysis.html) from 2012 through 2014. The data is available for download via [Kaggle](https://www.kaggle.com/hakabuk/gun-deaths-in-the-us).
+#### An Inebriated Walk with Craft Beers
 
+Here's an [exploratory analysis](Beer_Analysis.html) of different types of craft beer.  The data is available for download via [Kaggle](https://www.kaggle.com/nickhould/craft-cans).
+
+#### A Look into Gun-Related Deaths
+
+This [analysis piece](gun_analysis.html) looks into the potential role different demographics have on gun-related deaths from 2012 through 2014. The data is available for download via [Kaggle](https://www.kaggle.com/hakabuk/gun-deaths-in-the-us).
 
 ###### Disclaimer:
 _The data used in these analyses were accessed from other online sources (mostly Kaggle). Therefore, I have not, nor will not, verify any of the datasets' validity. So in other words, take the analyses at face-value only._
