@@ -29,10 +29,9 @@ Feel free to drop me a line on [LinkedIn](https://www.linkedin.com/in/william-ra
 Shoot me an email at wraikes@gmail.com.
 
 --------
+  
+  
+_Disclaimer: The data used in these analyses were accessed from other online sources (mostly Kaggle). Therefore, I have not, nor will not, verify any of the datasets' validity.  Please take these analyses at face-value only._
 
-<br>
-
-###### Disclaimer:
-_The data used in these analyses were accessed from other online sources (mostly Kaggle). Therefore, I have not, nor will not, verify any of t$
 
 
