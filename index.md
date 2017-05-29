@@ -30,7 +30,7 @@ Shoot me an email at wraikes@gmail.com.
 
 --------
   
-  
+<br>  
 _Disclaimer: The data used in these analyses were accessed from other online sources (mostly Kaggle). Therefore, I have not, nor will not, verify any of the datasets' validity.  Please take these analyses at face-value only._
 
 
