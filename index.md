@@ -11,7 +11,7 @@ This [script](Titanic.html) was used for practice in running predictive classifi
 
 --------
 
-## Exploratory Analyses with R
+### Exploratory Analyses with R
 
 #### An Inebriated Walk with Craft Beers
 
