@@ -26,6 +26,11 @@ This [analysis piece](gun_analysis.html) looks into the potential role different
 ### Contact
 
 Feel free to drop me a line on [LinkedIn](https://www.linkedin.com/in/william-raikes-81508448).
+Shoot me an email at wraikes@gmail.com.
+
+--------
+
+<br>
 
 ###### Disclaimer:
 _The data used in these analyses were accessed from other online sources (mostly Kaggle). Therefore, I have not, nor will not, verify any of t$
