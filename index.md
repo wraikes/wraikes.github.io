@@ -7,7 +7,7 @@ Welcome to my humble, digital abode! Below you'll find random projects and analy
 
 ##### I'm a (Titanic) Survivor
 
-This [script](Titanic.html) was used for practice in running predictive classification models on the ubiquitous Titanic dataset, using Python's sci-kit learn package.  The data can be downloaded via [Kaggle](https://www.kaggle.com/c/titanic/data).  
+This [script](Titanic.html) was used for practice in running predictive classification models on the ubiquitous Titanic dataset, using Python's sci-kit learn package.  The data can be downloaded at <https://www.kaggle.com/c/titanic/data>.  
 
 --------
 
@@ -15,11 +15,11 @@ This [script](Titanic.html) was used for practice in running predictive classifi
 
 ##### An Inebriated Walk with Craft Beers
 
-Here's an [exploratory analysis](Beer_Analysis.html) of different types of craft beer.  The data is available for download via [Kaggle](https://www.kaggle.com/nickhould/craft-cans).
+Here's an [exploratory analysis](Beer_Analysis.html) of different types of craft beer.  The data is available for download at <https://www.kaggle.com/nickhould/craft-cans>.
 
 ##### A Look into Gun-Related Deaths
 
-This [analysis piece](gun_analysis.html) looks into the potential role different demographics have on gun-related deaths from 2012 through 2014. The data is available for download via [Kaggle](https://www.kaggle.com/hakabuk/gun-deaths-in-the-us).
+This [analysis piece](gun_analysis.html) looks into the potential role different demographics have on gun-related deaths from 2012 through 2014. The data is available for download at <https://www.kaggle.com/hakabuk/gun-deaths-in-the-us>.
 
 --------
 
