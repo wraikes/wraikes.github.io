@@ -5,6 +5,8 @@ Welcome to my humble, digital abode! Below you'll find random projects and analy
 
 ### Machine Learning with Python
 
+The following projects share the same objective of creating predictive models using Python. The primary packages for these tools is numpy, pandas and sci-kit learn.
+
 ##### I'm a (Titanic) Survivor
 
 This [script](Titanic.html) was used for practice in running predictive classification models on the ubiquitous Titanic dataset, using Python's sci-kit learn package.  The data can be downloaded at <https://www.kaggle.com/c/titanic/data>.  
@@ -12,6 +14,8 @@ This [script](Titanic.html) was used for practice in running predictive classifi
 --------
 
 ### Exploratory Analyses with R
+
+I find R to be more suitable for exploratory analysis, and for hypothesis testing.  Therefore, the analyses below revolve around these concepts.
 
 ##### An Inebriated Walk with Craft Beers
 
