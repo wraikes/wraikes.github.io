@@ -9,7 +9,7 @@ Welcome to my humble, digital abode! Below you'll find random projects and analy
 
 ##### I'm a (Titanic) Survivor
 
-This [script](Titanic_Final.html) was used for practice in running predictive classification models on the ubiquitous Titanic dataset, using Python's sci-kit learn package.  The data can be downloaded at <https://www.kaggle.com/c/titanic/data>.  
+This [script](Titanic_Final.html) was used for practice in running predictive classification models on the ubiquitous Titanic dataset, using Python's sci-kit learn package.  The data can be downloaded at <https://www.kaggle.com/c/titanic/data>.
 
 --------
 
@@ -35,7 +35,7 @@ Shoot me an email at <wraikes@gmail.com>.
 
 --------
   
-<br>  
+<br>
 _Disclaimer: The data used in these analyses were accessed from other online sources (mostly Kaggle). Therefore, I have not, nor will not, verify any of the datasets' validity.  Please take these analyses at face-value only._
 
 
